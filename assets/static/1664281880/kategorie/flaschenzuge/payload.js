@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/kategorie/flaschenzuge", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/einhell-kettenflaschenzug-tc-ch-1000-einhell-2826097-1.jpg":"\u002Fassets\u002Fimages\u002Feinhell-kettenflaschenzug-tc-ch-1000-einhell-2826097-1.webp"}}],fetch:{},mutations:void 0});

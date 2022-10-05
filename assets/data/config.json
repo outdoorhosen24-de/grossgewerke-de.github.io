@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
-    "domain": "wassersport24.net",
-    "hostname": "https://wassersport24.net/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "configIsReady": true,
+    "domain": "grossgewerke.de",
+    "hostname": "https://www.grossgewerke.de/",
+    "email": "grossgewerke.desurrealnetworks.io",
+    "organization": "grossgewerke.de",
+    "logoText": "Grossgewerke.de",
+    "title": "Gro\u00dfmaschinen",
+    "subline": "Der Online Shop f\u00fcr Gro\u00dfmaschinen",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,9 +14,27 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
+    "popularProducts": [
+        "5544176",
+        "6960611",
+        "6960603",
+        "8662363",
+        "8632176",
+        "2826097"
+    ],
+    "winnerProducts": [
+        "8662363",
+        "7179906",
+        "8662371"
+    ],
+    "featuredCategories": [
+        "Flaschenz\u00fcge",
+        "Stromerzeuger",
+        "Stromerzeuger",
+        "Flaschenz\u00fcge",
+        "Stromerzeuger",
+        "Stromerzeuger"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
@@ -28,37 +46,33 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Gro\u00dfmaschinen",
-        "featureText": "Your featured text goes here",
+        "featureText": "Das Fachgesch\u00e4ft f\u00fcr Gro\u00dfmaschinen ist der Spezialist f\u00fcr die Beschaffung, Wartung und Reparatur von Gro\u00dfmaschinen. Das Sortiment umfasst eine Vielzahl von Produkten f\u00fcr die unterschiedlichsten Anwendungsbereiche. Die fachkundigen Mitarbeiter beraten Sie gerne bei der Auswahl der richtigen Maschine f\u00fcr Ihren Bedarf.",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex",
+            "title": "Gro\u00dfmaschinenladen - alles f\u00fcr Ihre Gro\u00dfprojekte!",
+            "metaDescription": "Willkommen bei unserem Shop f\u00fcr Gro\u00dfmaschinen! Wir bieten eine gro\u00dfe Auswahl an hochwertigen Maschinen f\u00fcr die industrielle Produktion.",
+            "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
+                    "title": "Gro\u00dfmaschinen: Die Riesen der Industrie",
+                    "text": "Gro\u00dfmaschinen sind Maschinen, die gr\u00f6\u00dfere Arbeiten verrichten k\u00f6nnen als herk\u00f6mmliche Maschinen. Sie werden h\u00e4ufig in der Industrie eingesetzt, um schwere oder sperrige G\u00fcter zu transportieren oder zu bearbeiten. Gro\u00dfmaschinen k\u00f6nnen auch in anderen Bereichen eingesetzt werden, zum Beispiel in der Landwirtschaft oder beim Bau von H\u00e4usern und Br\u00fccken.\n\nGro\u00dfmaschinen gibt es in vielen verschiedenen Gr\u00f6\u00dfen und Ausf\u00fchrungen. Die meisten Gro\u00dfmaschinen werden von einem Motor angetrieben, der entweder mit Benzin oder Diesel betrieben wird. Es gibt auch elektrisch angetriebene Gro\u00dfmaschinen, die jedoch selten sind. Die meisten Gro\u00dfmaschinen sind ferngesteuert, so dass der Fahrer sie von einem sicheren Abstand aus steuern kann.\n\nGro\u00dfmaschinen k\u00f6nnen sehr gef\u00e4hrlich sein, wenn sie nicht richtig bedient werden. Viele Unf\u00e4lle mit Gro\u00dfmaschinen passieren, weil der Fahrer die Kontrolle \u00fcber die Maschine verliert. Um Unf\u00e4lle zu vermeiden, ist es wichtig, sorgf\u00e4ltig zu arbeiten und die Anweisungen des Herstellers genau zu befolgen."
                 }
             ]
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Gro\u00dfmaschinen Shop",
+            "metaDescription": "Der Shop f\u00fcr Gro\u00dfmaschinen bietet eine gro\u00dfe Auswahl an hochwertigen und preiswerten Produkten.",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Gro\u00dfmaschinenhersteller: Qualit\u00e4t und Zuverl\u00e4ssigkeit",
+            "metaDescription": "Der f\u00fchrende Hersteller von Gro\u00dfmaschinen mit \u00fcber 100 Jahren Erfahrung. Wir bieten die beste Qualit\u00e4t und Service f\u00fcr unsere Kunden.",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "$PRODUKT: Gro\u00dfmaschinen f\u00fcr die Produktion",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die perfekte Wahl f\u00fcr Ihre $KATEGORIE. \u00dcberzeugen Sie sich selbst!",
+        "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
@@ -72,9 +86,9 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "Gro\u00dfmaschinen: $KATEGORIE",
+        "defaultMetaDescription": "Kategorie: $KATEGORIE - Hier finden Sie eine gro\u00dfe Auswahl an Gro\u00dfmaschinen f\u00fcr Ihren Betrieb. Top Marken und Qualit\u00e4t zu g\u00fcnstigen Preisen.",
+        "defaultRobots": "index, follow",
         "categories": [
             {
                 "key": "sporthosen",
@@ -100,8 +114,8 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultMetaDescription": "$HERSTELLER ist ein f\u00fchrender Hersteller von Gro\u00dfmaschinen. Wir bieten eine breite Palette an Produkten und Dienstleistungen f\u00fcr die Industrie.",
+        "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
@@ -118,26 +132,30 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "Gro\u00dfmaschinen",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "Gro\u00dfmaschinen Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
+            "linkTitle": "Gro\u00dfmaschinen Marken",
             "publish": true
         },
         {
             "title": "Kontakt",
             "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Kontakt",
             "publish": false
         }
-    ]
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
+    }
 }

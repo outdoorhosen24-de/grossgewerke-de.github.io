@@ -1,12 +1,12 @@
 {
-    "configIsReady": true,
+    "configIsReady": false,
     "domain": "grossgewerke.de",
     "hostname": "https://www.grossgewerke.de/",
     "email": "grossgewerke.desurrealnetworks.io",
     "organization": "grossgewerke.de",
     "logoText": "Grossgewerke.de",
-    "title": "Gro\u00dfmaschinen",
-    "subline": "Der Online Shop f\u00fcr Gro\u00dfmaschinen",
+    "title": "Großmaschinen",
+    "subline": "Der Online Shop für Großmaschinen",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -28,10 +28,10 @@
         "8662371"
     ],
     "featuredCategories": [
-        "Flaschenz\u00fcge",
+        "Flaschenzüge",
         "Stromerzeuger",
         "Stromerzeuger",
-        "Flaschenz\u00fcge",
+        "Flaschenzüge",
         "Stromerzeuger",
         "Stromerzeuger"
     ],
@@ -45,49 +45,49 @@
     ],
     "seo": {
         "htmlLang": "de",
-        "mainKeyword": "Gro\u00dfmaschinen",
-        "featureText": "Das Fachgesch\u00e4ft f\u00fcr Gro\u00dfmaschinen ist der Spezialist f\u00fcr die Beschaffung, Wartung und Reparatur von Gro\u00dfmaschinen. Das Sortiment umfasst eine Vielzahl von Produkten f\u00fcr die unterschiedlichsten Anwendungsbereiche. Die fachkundigen Mitarbeiter beraten Sie gerne bei der Auswahl der richtigen Maschine f\u00fcr Ihren Bedarf.",
+        "mainKeyword": "Großmaschinen",
+        "featureText": "Das Fachgeschäft für Großmaschinen ist der Spezialist für die Beschaffung, Wartung und Reparatur von Großmaschinen. Das Sortiment umfasst eine Vielzahl von Produkten für die unterschiedlichsten Anwendungsbereiche. Die fachkundigen Mitarbeiter beraten Sie gerne bei der Auswahl der richtigen Maschine für Ihren Bedarf.",
         "index": {
-            "title": "Gro\u00dfmaschinenladen - alles f\u00fcr Ihre Gro\u00dfprojekte!",
-            "metaDescription": "Willkommen bei unserem Shop f\u00fcr Gro\u00dfmaschinen! Wir bieten eine gro\u00dfe Auswahl an hochwertigen Maschinen f\u00fcr die industrielle Produktion.",
+            "title": "Großmaschinenladen - alles für Ihre Großprojekte!",
+            "metaDescription": "Willkommen bei unserem Shop für Großmaschinen! Wir bieten eine große Auswahl an hochwertigen Maschinen für die industrielle Produktion.",
             "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Gro\u00dfmaschinen: Die Riesen der Industrie",
-                    "text": "Gro\u00dfmaschinen sind Maschinen, die gr\u00f6\u00dfere Arbeiten verrichten k\u00f6nnen als herk\u00f6mmliche Maschinen. Sie werden h\u00e4ufig in der Industrie eingesetzt, um schwere oder sperrige G\u00fcter zu transportieren oder zu bearbeiten. Gro\u00dfmaschinen k\u00f6nnen auch in anderen Bereichen eingesetzt werden, zum Beispiel in der Landwirtschaft oder beim Bau von H\u00e4usern und Br\u00fccken.\n\nGro\u00dfmaschinen gibt es in vielen verschiedenen Gr\u00f6\u00dfen und Ausf\u00fchrungen. Die meisten Gro\u00dfmaschinen werden von einem Motor angetrieben, der entweder mit Benzin oder Diesel betrieben wird. Es gibt auch elektrisch angetriebene Gro\u00dfmaschinen, die jedoch selten sind. Die meisten Gro\u00dfmaschinen sind ferngesteuert, so dass der Fahrer sie von einem sicheren Abstand aus steuern kann.\n\nGro\u00dfmaschinen k\u00f6nnen sehr gef\u00e4hrlich sein, wenn sie nicht richtig bedient werden. Viele Unf\u00e4lle mit Gro\u00dfmaschinen passieren, weil der Fahrer die Kontrolle \u00fcber die Maschine verliert. Um Unf\u00e4lle zu vermeiden, ist es wichtig, sorgf\u00e4ltig zu arbeiten und die Anweisungen des Herstellers genau zu befolgen."
+                    "title": "Großmaschinen: Die Riesen der Industrie",
+                    "text": "Großmaschinen sind Maschinen, die größere Arbeiten verrichten können als herkömmliche Maschinen. Sie werden häufig in der Industrie eingesetzt, um schwere oder sperrige Güter zu transportieren oder zu bearbeiten. Großmaschinen können auch in anderen Bereichen eingesetzt werden, zum Beispiel in der Landwirtschaft oder beim Bau von Häusern und Brücken.\n\nGroßmaschinen gibt es in vielen verschiedenen Größen und Ausführungen. Die meisten Großmaschinen werden von einem Motor angetrieben, der entweder mit Benzin oder Diesel betrieben wird. Es gibt auch elektrisch angetriebene Großmaschinen, die jedoch selten sind. Die meisten Großmaschinen sind ferngesteuert, so dass der Fahrer sie von einem sicheren Abstand aus steuern kann.\n\nGroßmaschinen können sehr gefährlich sein, wenn sie nicht richtig bedient werden. Viele Unfälle mit Großmaschinen passieren, weil der Fahrer die Kontrolle über die Maschine verliert. Um Unfälle zu vermeiden, ist es wichtig, sorgfältig zu arbeiten und die Anweisungen des Herstellers genau zu befolgen."
                 }
             ]
         },
         "shop": {
-            "title": "Gro\u00dfmaschinen Shop",
-            "metaDescription": "Der Shop f\u00fcr Gro\u00dfmaschinen bietet eine gro\u00dfe Auswahl an hochwertigen und preiswerten Produkten.",
+            "title": "Großmaschinen Shop",
+            "metaDescription": "Der Shop für Großmaschinen bietet eine große Auswahl an hochwertigen und preiswerten Produkten.",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Gro\u00dfmaschinenhersteller: Qualit\u00e4t und Zuverl\u00e4ssigkeit",
-            "metaDescription": "Der f\u00fchrende Hersteller von Gro\u00dfmaschinen mit \u00fcber 100 Jahren Erfahrung. Wir bieten die beste Qualit\u00e4t und Service f\u00fcr unsere Kunden.",
+            "title": "Großmaschinenhersteller: Qualität und Zuverlässigkeit",
+            "metaDescription": "Der führende Hersteller von Großmaschinen mit über 100 Jahren Erfahrung. Wir bieten die beste Qualität und Service für unsere Kunden.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "$PRODUKT: Gro\u00dfmaschinen f\u00fcr die Produktion",
-        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die perfekte Wahl f\u00fcr Ihre $KATEGORIE. \u00dcberzeugen Sie sich selbst!",
+        "defaultTitle": "$PRODUKT: Großmaschinen für die Produktion",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die perfekte Wahl für Ihre $KATEGORIE. Überzeugen Sie sich selbst!",
         "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
                 "name": "Ortovox PALA PANTS Kletterhose",
                 "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
                     "robots": "index, follow"
                 }
             }
         ]
     },
     "categorySeo": {
-        "defaultTitle": "Gro\u00dfmaschinen: $KATEGORIE",
-        "defaultMetaDescription": "Kategorie: $KATEGORIE - Hier finden Sie eine gro\u00dfe Auswahl an Gro\u00dfmaschinen f\u00fcr Ihren Betrieb. Top Marken und Qualit\u00e4t zu g\u00fcnstigen Preisen.",
+        "defaultTitle": "Großmaschinen: $KATEGORIE",
+        "defaultMetaDescription": "Kategorie: $KATEGORIE - Hier finden Sie eine große Auswahl an Großmaschinen für Ihren Betrieb. Top Marken und Qualität zu günstigen Preisen.",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -95,8 +95,8 @@
                 "slug": "sporthosen",
                 "name": "Sporthosen",
                 "seo": {
-                    "title": "Sporthosen g\u00fcnstig kaufen",
-                    "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
                     "robots": "index, follow",
                     "texts": [
                         {
@@ -114,15 +114,15 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "$HERSTELLER ist ein f\u00fchrender Hersteller von Gro\u00dfmaschinen. Wir bieten eine breite Palette an Produkten und Dienstleistungen f\u00fcr die Industrie.",
+        "defaultMetaDescription": "$HERSTELLER ist ein führender Hersteller von Großmaschinen. Wir bieten eine breite Palette an Produkten und Dienstleistungen für die Industrie.",
         "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
                 "name": "Palm",
                 "seo": {
-                    "title": "Produkte von Palm g\u00fcnstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
                     "robots": "index, follow"
                 }
             }
@@ -132,19 +132,19 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Gro\u00dfmaschinen",
+            "linkTitle": "Großmaschinen",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Gro\u00dfmaschinen Shop",
+            "linkTitle": "Großmaschinen Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Gro\u00dfmaschinen Marken",
+            "linkTitle": "Großmaschinen Marken",
             "publish": true
         },
         {

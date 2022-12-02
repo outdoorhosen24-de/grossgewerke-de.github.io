@@ -51,12 +51,15 @@
             "title": "Großmaschinenladen - alles für Ihre Großprojekte!",
             "metaDescription": "Willkommen bei unserem Shop für Großmaschinen! Wir bieten eine große Auswahl an hochwertigen Maschinen für die industrielle Produktion.",
             "robots": "index, follow",
-            "texts": [
-                {
-                    "title": "Großmaschinen: Die Riesen der Industrie",
-                    "text": "Großmaschinen sind Maschinen, die größere Arbeiten verrichten können als herkömmliche Maschinen. Sie werden häufig in der Industrie eingesetzt, um schwere oder sperrige Güter zu transportieren oder zu bearbeiten. Großmaschinen können auch in anderen Bereichen eingesetzt werden, zum Beispiel in der Landwirtschaft oder beim Bau von Häusern und Brücken.\n\nGroßmaschinen gibt es in vielen verschiedenen Größen und Ausführungen. Die meisten Großmaschinen werden von einem Motor angetrieben, der entweder mit Benzin oder Diesel betrieben wird. Es gibt auch elektrisch angetriebene Großmaschinen, die jedoch selten sind. Die meisten Großmaschinen sind ferngesteuert, so dass der Fahrer sie von einem sicheren Abstand aus steuern kann.\n\nGroßmaschinen können sehr gefährlich sein, wenn sie nicht richtig bedient werden. Viele Unfälle mit Großmaschinen passieren, weil der Fahrer die Kontrolle über die Maschine verliert. Um Unfälle zu vermeiden, ist es wichtig, sorgfältig zu arbeiten und die Anweisungen des Herstellers genau zu befolgen."
-                }
-            ]
+            "seotext": {
+                "published": false,
+                "content": [
+                    {
+                        "title": "Großmaschinen: Die Riesen der Industrie",
+                        "text": "Großmaschinen sind Maschinen, die größere Arbeiten verrichten können als herkömmliche Maschinen. Sie werden häufig in der Industrie eingesetzt, um schwere oder sperrige Güter zu transportieren oder zu bearbeiten. Großmaschinen können auch in anderen Bereichen eingesetzt werden, zum Beispiel in der Landwirtschaft oder beim Bau von Häusern und Brücken.\n\nGroßmaschinen gibt es in vielen verschiedenen Größen und Ausführungen. Die meisten Großmaschinen werden von einem Motor angetrieben, der entweder mit Benzin oder Diesel betrieben wird. Es gibt auch elektrisch angetriebene Großmaschinen, die jedoch selten sind. Die meisten Großmaschinen sind ferngesteuert, so dass der Fahrer sie von einem sicheren Abstand aus steuern kann.\n\nGroßmaschinen können sehr gefährlich sein, wenn sie nicht richtig bedient werden. Viele Unfälle mit Großmaschinen passieren, weil der Fahrer die Kontrolle über die Maschine verliert. Um Unfälle zu vermeiden, ist es wichtig, sorgfältig zu arbeiten und die Anweisungen des Herstellers genau zu befolgen."
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Großmaschinen Shop",

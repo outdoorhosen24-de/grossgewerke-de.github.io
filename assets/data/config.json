@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "grossgewerke.de",
     "hostname": "https://www.grossgewerke.de/",
     "email": "grossgewerke.de@surrealnetworks.io",
     "organization": "grossgewerke.de",
     "logoText": "Grossgewerke.de",
-    "title": "Großmaschinen",
-    "subline": "Der Online Shop für Großmaschinen",
+    "title": "Generator & Stromerzeuger",
+    "subline": "Der Online Shop für Generatoren & Stromerzeuger",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -46,10 +46,10 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Großmaschinen",
-        "featureText": "Das Fachgeschäft für Großmaschinen ist der Spezialist für die Beschaffung, Wartung und Reparatur von Großmaschinen. Das Sortiment umfasst eine Vielzahl von Produkten für die unterschiedlichsten Anwendungsbereiche. Die fachkundigen Mitarbeiter beraten Sie gerne bei der Auswahl der richtigen Maschine für Ihren Bedarf.",
+        "featureText": "Herzlich willkommen! Egal, ob Du Licht ins Dunkel bringen oder Dein Essen aufwärmen möchtest: Ab sofort kannst Du komplett autark sein. Denn hier auf grossgewerke.de geht es nicht nur um Stromerzeuger, sondern auch um Inverter-Generatoren und praktische Akku-Travelboxen. Die Sicherheit für lange Ausflüge in die Natur und die Garantie, dass man im Fall der Fälle immer Strom hat. Mit unseren Produkten ein erhellendes Erlebnis zu jeder Zeit.",
         "index": {
-            "title": "Großmaschinenladen - alles für Ihre Großprojekte!",
-            "metaDescription": "Willkommen bei unserem Shop für Großmaschinen! Wir bieten eine große Auswahl an hochwertigen Maschinen für die industrielle Produktion.",
+            "title": "Generator kaufen | Einfach. Günstig. Schnell.",
+            "metaDescription": "Willkommen bei grossgewerke.de! Lebe nun autark mit deiner eigenen Stromversorgung durch Stromerzeuger. Egal ob unterwegs oder Zuhause!",
             "robots": "index, follow",
             "seotext": {
                 "published": false,
@@ -62,19 +62,19 @@
             }
         },
         "shop": {
-            "title": "Großmaschinen Shop",
-            "metaDescription": "Der Shop für Großmaschinen bietet eine große Auswahl an hochwertigen und preiswerten Produkten.",
+            "title": "Der Online Shop für Generatoren |  grossgewerke.de",
+            "metaDescription": "In unserem Online Shop findest du Stromerzeuger und Generatoren. Auch schweres Heben machen wir ganz leicht mit unseren Flaschenzügen von Einhell. ",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Großmaschinenhersteller: Qualität und Zuverlässigkeit",
-            "metaDescription": "Der führende Hersteller von Großmaschinen mit über 100 Jahren Erfahrung. Wir bieten die beste Qualität und Service für unsere Kunden.",
+            "title": "Liste aller Generatoren, sortiert nach Hersteller | Shop",
+            "metaDescription": "Kaufe jetzt ganz bequem Generatoren von namenhaften Herstellern wie Hyundai, Zipper oder Cross Tools oder Flaschenzüge von Einhell in unserem Online Shop.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "$PRODUKT: Großmaschinen für die Produktion",
-        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die perfekte Wahl für Ihre $KATEGORIE. Überzeugen Sie sich selbst!",
+        "defaultTitle": "$PRODUKT | grossgewerke.de",
+        "defaultMetaDescription": "$PRODUKT. Kaufe jetzt schnell und einfach von unserem namenhaften Hersteller $HERSTELLER das Beste aus dem Bereich der $KATEGORIE. ",
         "defaultRobots": "index, follow",
         "products": [
             {
@@ -89,8 +89,8 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "Großmaschinen: $KATEGORIE",
-        "defaultMetaDescription": "Kategorie: $KATEGORIE - Hier finden Sie eine große Auswahl an Großmaschinen für Ihren Betrieb. Top Marken und Qualität zu günstigen Preisen.",
+        "defaultTitle": "$KATEGORIE | grossgewerke.de",
+        "defaultMetaDescription": "Auf grossgewerke.de findest du die besten Produkte aus dem Bereich der $KATEGORIE. Lebe nun autark mit deiner persönlichen Stromversorgung. ",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -116,8 +116,8 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "$HERSTELLER ist ein führender Hersteller von Großmaschinen. Wir bieten eine breite Palette an Produkten und Dienstleistungen für die Industrie.",
+        "defaultTitle": "$HERSTELLER | Generatoren & Stromerzeuger",
+        "defaultMetaDescription": "Mit den fortschrittlichen Produkten von $HERSTELLER, findest du jetzt Qualität zum fairen Preis. Bringe Licht ins Dunkel mit grossgewerke.de.",
         "defaultRobots": "index, follow",
         "brands": [
             {

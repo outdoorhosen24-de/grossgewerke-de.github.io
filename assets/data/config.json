@@ -52,11 +52,19 @@
             "metaDescription": "Willkommen bei grossgewerke.de! Lebe nun autark mit deiner eigenen Stromversorgung durch Stromerzeuger. Egal ob unterwegs oder Zuhause!",
             "robots": "index, follow",
             "seotext": {
-                "published": false,
+                "published": true,
                 "content": [
                     {
-                        "title": "Großmaschinen: Die Riesen der Industrie",
-                        "text": "Großmaschinen sind Maschinen, die größere Arbeiten verrichten können als herkömmliche Maschinen. Sie werden häufig in der Industrie eingesetzt, um schwere oder sperrige Güter zu transportieren oder zu bearbeiten. Großmaschinen können auch in anderen Bereichen eingesetzt werden, zum Beispiel in der Landwirtschaft oder beim Bau von Häusern und Brücken.\n\nGroßmaschinen gibt es in vielen verschiedenen Größen und Ausführungen. Die meisten Großmaschinen werden von einem Motor angetrieben, der entweder mit Benzin oder Diesel betrieben wird. Es gibt auch elektrisch angetriebene Großmaschinen, die jedoch selten sind. Die meisten Großmaschinen sind ferngesteuert, so dass der Fahrer sie von einem sicheren Abstand aus steuern kann.\n\nGroßmaschinen können sehr gefährlich sein, wenn sie nicht richtig bedient werden. Viele Unfälle mit Großmaschinen passieren, weil der Fahrer die Kontrolle über die Maschine verliert. Um Unfälle zu vermeiden, ist es wichtig, sorgfältig zu arbeiten und die Anweisungen des Herstellers genau zu befolgen."
+                        "title": "Willkommen bei Grossgewerke!",
+                        "text": "Herzlich willkommen auf Grossgewerke.de, Ihrem Online-Shop für hochwertige Großmaschinen. Wir bieten Ihnen eine breite Palette an Produkten für verschiedene Anwendungsbereiche, darunter Stromerzeuger und Flaschenzüge. Alle unsere Produkte sind von höchster Qualität und verfügen über eine lange Lebensdauer.Wir verstehen, dass Sie eine effiziente und zuverlässige Ausrüstung benötigen, um Ihre Arbeit erfolgreich auszuführen. Daher bieten wir Ihnen nur die besten Großmaschinen auf dem Markt, die Ihren Anforderungen gerecht werden. Unser Ziel ist es, Ihnen bei der Wahl des richtigen Produkts zu helfen und Ihnen einen einfachen und stressfreien Einkaufserlebnis zu bieten.Wir haben ein erfahrenes Team, das Ihnen bei Fragen oder Problemen gerne zur Verfügung steht. Unsere Experten haben umfangreiche Kenntnisse über alle Produkte, die wir anbieten, und können Ihnen daher bei der Wahl des richtigen Produkts helfen.Durchsuchen Sie einfach unsere Kategorien, um das passende Produkt für Ihre Bedürfnisse zu finden. Wir sind stolz darauf, Ihnen eine sichere und zuverlässige Plattform zur Verfügung zu stellen, auf der Sie Ihre Einkäufe tätigen können.Vielen Dank, dass Sie Grossgewerke gewählt haben. Wir freuen uns darauf, Ihnen bei Ihrem nächsten Einkauf zu helfen."
+                    },
+                    {
+                        "title": "Stromerzeuger",
+                        "text": "<a href=\"/kategorie/stromerzeuger/\" title=\"Stromerzeuger\">Stromerzeuger</a> sind unverzichtbar für den Einsatz auf Baustellen, bei Veranstaltungen oder bei Stromausfällen. Unsere hochwertigen Stromerzeuger garantieren eine zuverlässige und sichere Stromversorgung. Ob mit Benzin- oder Dieselmotor, wir bieten Ihnen eine breite Auswahl an Stromerzeugern in verschiedenen Leistungsstufen. Entdecken Sie jetzt unser Sortiment an Stromerzeugern auf Grossgewerke.de."
+                    },
+                    {
+                        "title": "Flaschenzüge",
+                        "text": "<a href=\"/kategorie/flaschenzuege/\" title=\"Flaschenzüge\">Flaschenzüge</a> sind ein unverzichtbares Werkzeug für die schweren Hebetätigkeiten in Industrie und Handwerk. Bei Grossgewerke.de finden Sie eine große Auswahl an Flaschenzügen in unterschiedlichen Ausführungen und Traglasten. Von Handbetrieben bis hin zu elektrisch angetriebenen Flaschenzügen, bieten wir Ihnen das passende Gerät für Ihre Anforderungen. Überzeugen Sie sich jetzt von der Qualität unserer Flaschenzüge auf Grossgewerke.de."
                     }
                 ]
             }

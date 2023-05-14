@@ -1,208 +1,215 @@
 {
-  "configIsReady": true,
-  "domain": "grossgewerke.de",
-  "hostname": "https://www.grossgewerke.de/",
-  "email": "grossgewerke.de@surrealnetworks.io",
-  "organization": "grossgewerke.de",
-  "logoText": "Grossgewerke.de",
-  "title": "Generator & Stromerzeuger",
-  "subline": "Der Online Shop für Generatoren & Stromerzeuger",
-  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-  "imageFolder": "/assets/images/images/",
-  "productUrl": "/produkt/",
-  "kategorieUrl": "/kategorie/",
-  "numberOfProductsOnStartpage": 18,
-  "numberMaximumProductsPerCategory": 100,
-  "numberOfRelevantProduct": 12,
-  "popularProducts": [
-    "5544176",
-    "6960611",
-    "6960603",
-    "8662363",
-    "8632176",
-    "2826097"
-  ],
-  "winnerProducts": [
-    "8662363",
-    "7179906",
-    "8662371"
-  ],
-  "featuredCategories": [
-    "Flaschenzüge",
-    "Stromerzeuger",
-    "Stromerzeuger",
-    "Flaschenzüge",
-    "Stromerzeuger",
-    "Stromerzeuger"
-  ],
-  "socialMediaAccounts": [],
-  "imageQuality": 90,
-  "checklist": [
-    "Material",
-    "Komfort",
-    "Funktion",
-    "Haltbarkeit"
-  ],
-  "seo": {
-    "htmlLang": "de",
-    "mainKeyword": "Großmaschinen",
-    "featureText": "Herzlich willkommen! Egal, ob Du Licht ins Dunkel bringen oder Dein Essen aufwärmen möchtest: Ab sofort kannst Du komplett autark sein. Denn hier auf grossgewerke.de geht es nicht nur um Stromerzeuger, sondern auch um Inverter-Generatoren und praktische Akku-Travelboxen. Die Sicherheit für lange Ausflüge in die Natur und die Garantie, dass man im Fall der Fälle immer Strom hat. Mit unseren Produkten ein erhellendes Erlebnis zu jeder Zeit.",
-    "index": {
-      "title": "Generator kaufen | Einfach. Günstig. Schnell.",
-      "metaDescription": "Willkommen bei grossgewerke.de! Lebe nun autark mit deiner eigenen Stromversorgung durch Stromerzeuger. Egal ob unterwegs oder Zuhause!",
-      "robots": "index, follow",
-      "seotext": {
-        "published": true,
-        "content": [
-          {
-            "title": "Willkommen bei Grossgewerke!",
-            "text": "Herzlich willkommen auf Grossgewerke.de, Ihrem Online-Shop für hochwertige Großmaschinen. Wir bieten Ihnen eine breite Palette an Produkten für verschiedene Anwendungsbereiche, darunter Stromerzeuger und Flaschenzüge. Alle unsere Produkte sind von höchster Qualität und verfügen über eine lange Lebensdauer.Wir verstehen, dass Sie eine effiziente und zuverlässige Ausrüstung benötigen, um Ihre Arbeit erfolgreich auszuführen. Daher bieten wir Ihnen nur die besten Großmaschinen auf dem Markt, die Ihren Anforderungen gerecht werden. Unser Ziel ist es, Ihnen bei der Wahl des richtigen Produkts zu helfen und Ihnen einen einfachen und stressfreien Einkaufserlebnis zu bieten.Wir haben ein erfahrenes Team, das Ihnen bei Fragen oder Problemen gerne zur Verfügung steht. Unsere Experten haben umfangreiche Kenntnisse über alle Produkte, die wir anbieten, und können Ihnen daher bei der Wahl des richtigen Produkts helfen.Durchsuchen Sie einfach unsere Kategorien, um das passende Produkt für Ihre Bedürfnisse zu finden. Wir sind stolz darauf, Ihnen eine sichere und zuverlässige Plattform zur Verfügung zu stellen, auf der Sie Ihre Einkäufe tätigen können.Vielen Dank, dass Sie Grossgewerke gewählt haben. Wir freuen uns darauf, Ihnen bei Ihrem nächsten Einkauf zu helfen."
-          },
-          {
-            "title": "Stromerzeuger",
-            "text": "<a href=\"/kategorie/stromerzeuger/\" title=\"Stromerzeuger\">Stromerzeuger</a> sind unverzichtbar für den Einsatz auf Baustellen, bei Veranstaltungen oder bei Stromausfällen. Unsere hochwertigen Stromerzeuger garantieren eine zuverlässige und sichere Stromversorgung. Ob mit Benzin- oder Dieselmotor, wir bieten Ihnen eine breite Auswahl an Stromerzeugern in verschiedenen Leistungsstufen. Entdecken Sie jetzt unser Sortiment an Stromerzeugern auf Grossgewerke.de."
-          },
-          {
-            "title": "Flaschenzüge",
-            "text": "<a href=\"/kategorie/flaschenzuege/\" title=\"Flaschenzüge\">Flaschenzüge</a> sind ein unverzichtbares Werkzeug für die schweren Hebetätigkeiten in Industrie und Handwerk. Bei Grossgewerke.de finden Sie eine große Auswahl an Flaschenzügen in unterschiedlichen Ausführungen und Traglasten. Von Handbetrieben bis hin zu elektrisch angetriebenen Flaschenzügen, bieten wir Ihnen das passende Gerät für Ihre Anforderungen. Überzeugen Sie sich jetzt von der Qualität unserer Flaschenzüge auf Grossgewerke.de."
-          }
-        ]
-      }
+    "configIsReady": true,
+    "domain": "grossgewerke.de",
+    "hostname": "https://www.grossgewerke.de/",
+    "email": "grossgewerke.de@surrealnetworks.io",
+    "organization": "grossgewerke.de",
+    "logoText": "Grossgewerke.de",
+    "title": "Generator & Stromerzeuger",
+    "subline": "Der Online Shop für Generatoren & Stromerzeuger",
+    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+    "imageFolder": "/assets/images/images/",
+    "productUrl": "/produkt/",
+    "kategorieUrl": "/kategorie/",
+    "numberOfProductsOnStartpage": 18,
+    "numberMaximumProductsPerCategory": 100,
+    "numberOfRelevantProduct": 12,
+    "popularProducts": [
+        "5544176",
+        "6960611",
+        "6960603",
+        "8662363",
+        "8632176",
+        "2826097"
+    ],
+    "winnerProducts": [
+        "8662363",
+        "7179906",
+        "8662371"
+    ],
+    "featuredCategories": [
+        "Flaschenzüge",
+        "Stromerzeuger",
+        "Stromerzeuger",
+        "Flaschenzüge",
+        "Stromerzeuger",
+        "Stromerzeuger"
+    ],
+    "socialMediaAccounts": [],
+    "imageQuality": 90,
+    "checklist": [
+        "Material",
+        "Komfort",
+        "Funktion",
+        "Haltbarkeit"
+    ],
+    "seo": {
+        "htmlLang": "de",
+        "mainKeyword": "Großmaschinen",
+        "featureText": "Herzlich willkommen! Egal, ob Du Licht ins Dunkel bringen oder Dein Essen aufwärmen möchtest: Ab sofort kannst Du komplett autark sein. Denn hier auf grossgewerke.de geht es nicht nur um Stromerzeuger, sondern auch um Inverter-Generatoren und praktische Akku-Travelboxen. Die Sicherheit für lange Ausflüge in die Natur und die Garantie, dass man im Fall der Fälle immer Strom hat. Mit unseren Produkten ein erhellendes Erlebnis zu jeder Zeit.",
+        "index": {
+            "title": "Generator kaufen | Einfach. Günstig. Schnell.",
+            "metaDescription": "Willkommen bei grossgewerke.de! Lebe nun autark mit deiner eigenen Stromversorgung durch Stromerzeuger. Egal ob unterwegs oder Zuhause!",
+            "robots": "index, follow",
+            "seotext": {
+                "published": true,
+                "content": [
+                    {
+                        "title": "Willkommen bei Grossgewerke!",
+                        "text": "Herzlich willkommen auf Grossgewerke.de, Ihrem Online-Shop für hochwertige Großmaschinen. Wir bieten Ihnen eine breite Palette an Produkten für verschiedene Anwendungsbereiche, darunter Stromerzeuger und Flaschenzüge. Alle unsere Produkte sind von höchster Qualität und verfügen über eine lange Lebensdauer.Wir verstehen, dass Sie eine effiziente und zuverlässige Ausrüstung benötigen, um Ihre Arbeit erfolgreich auszuführen. Daher bieten wir Ihnen nur die besten Großmaschinen auf dem Markt, die Ihren Anforderungen gerecht werden. Unser Ziel ist es, Ihnen bei der Wahl des richtigen Produkts zu helfen und Ihnen einen einfachen und stressfreien Einkaufserlebnis zu bieten.Wir haben ein erfahrenes Team, das Ihnen bei Fragen oder Problemen gerne zur Verfügung steht. Unsere Experten haben umfangreiche Kenntnisse über alle Produkte, die wir anbieten, und können Ihnen daher bei der Wahl des richtigen Produkts helfen.Durchsuchen Sie einfach unsere Kategorien, um das passende Produkt für Ihre Bedürfnisse zu finden. Wir sind stolz darauf, Ihnen eine sichere und zuverlässige Plattform zur Verfügung zu stellen, auf der Sie Ihre Einkäufe tätigen können.Vielen Dank, dass Sie Grossgewerke gewählt haben. Wir freuen uns darauf, Ihnen bei Ihrem nächsten Einkauf zu helfen."
+                    },
+                    {
+                        "title": "Stromerzeuger",
+                        "text": "<a href=\"/kategorie/stromerzeuger/\" title=\"Stromerzeuger\">Stromerzeuger</a> sind unverzichtbar für den Einsatz auf Baustellen, bei Veranstaltungen oder bei Stromausfällen. Unsere hochwertigen Stromerzeuger garantieren eine zuverlässige und sichere Stromversorgung. Ob mit Benzin- oder Dieselmotor, wir bieten Ihnen eine breite Auswahl an Stromerzeugern in verschiedenen Leistungsstufen. Entdecken Sie jetzt unser Sortiment an Stromerzeugern auf Grossgewerke.de."
+                    },
+                    {
+                        "title": "Flaschenzüge",
+                        "text": "<a href=\"/kategorie/flaschenzuege/\" title=\"Flaschenzüge\">Flaschenzüge</a> sind ein unverzichtbares Werkzeug für die schweren Hebetätigkeiten in Industrie und Handwerk. Bei Grossgewerke.de finden Sie eine große Auswahl an Flaschenzügen in unterschiedlichen Ausführungen und Traglasten. Von Handbetrieben bis hin zu elektrisch angetriebenen Flaschenzügen, bieten wir Ihnen das passende Gerät für Ihre Anforderungen. Überzeugen Sie sich jetzt von der Qualität unserer Flaschenzüge auf Grossgewerke.de."
+                    }
+                ]
+            }
+        },
+        "shop": {
+            "title": "Der Online Shop für Generatoren |  grossgewerke.de",
+            "metaDescription": "In unserem Online Shop findest du Stromerzeuger und Generatoren. Auch schweres Heben machen wir ganz leicht mit unseren Flaschenzügen von Einhell. ",
+            "robots": "index, follow"
+        },
+        "hersteller": {
+            "title": "Liste aller Generatoren, sortiert nach Hersteller | Shop",
+            "metaDescription": "Kaufe jetzt ganz bequem Generatoren von namenhaften Herstellern wie Hyundai, Zipper oder Cross Tools oder Flaschenzüge von Einhell in unserem Online Shop.",
+            "robots": "index, follow"
+        }
     },
-    "shop": {
-      "title": "Der Online Shop für Generatoren |  grossgewerke.de",
-      "metaDescription": "In unserem Online Shop findest du Stromerzeuger und Generatoren. Auch schweres Heben machen wir ganz leicht mit unseren Flaschenzügen von Einhell. ",
-      "robots": "index, follow"
-    },
-    "hersteller": {
-      "title": "Liste aller Generatoren, sortiert nach Hersteller | Shop",
-      "metaDescription": "Kaufe jetzt ganz bequem Generatoren von namenhaften Herstellern wie Hyundai, Zipper oder Cross Tools oder Flaschenzüge von Einhell in unserem Online Shop.",
-      "robots": "index, follow"
-    }
-  },
-  "productSeo": {
-    "defaultTitle": "$PRODUKT | grossgewerke.de",
-    "defaultMetaDescription": "$PRODUKT. Kaufe jetzt schnell und einfach von unserem namenhaften Hersteller $HERSTELLER das Beste aus dem Bereich der $KATEGORIE. ",
-    "defaultRobots": "index, follow",
-    "products": [
-      {
-        "sku": "5637909794",
-        "name": "Ortovox PALA PANTS Kletterhose",
-        "seo": {
-          "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-          "robots": "index, follow"
-        }
-      },
-      {
-        "sku": "8662363",
-        "seo": {
-          "texts": [
+    "productSeo": {
+        "defaultTitle": "$PRODUKT | grossgewerke.de",
+        "defaultMetaDescription": "$PRODUKT. Kaufe jetzt schnell und einfach von unserem namenhaften Hersteller $HERSTELLER das Beste aus dem Bereich der $KATEGORIE. ",
+        "defaultRobots": "index, follow",
+        "products": [
             {
-              "title": "Einhell Benzin-Stromerzeuger TC-IG 1100: Unabhängige Stromversorgung für vielfältige Einsatzbereiche",
-              "text": "<p class=\"justify\">Der Einhell Benzin-Stromerzeuger TC-IG 1100 ist ein leistungsstarkes und zuverlässiges Gerät, das sich ideal für alle Situationen eignet, in denen eine unabhängige Stromversorgung benötigt wird. Ob auf Baustellen, beim Campen, in Werkstätten, Garagen, freistehenden Gebäuden oder in Schrebergärten, der Einhell TC-IG 1100 liefert jederzeit die benötigte Energie.</p><p class=\"justify\">Der Stromerzeuger ist mit einem robusten und emissionsarmen 4-Takt-Antriebsmotor ausgestattet. Dieser erreicht eine Dauerleistung von 1.000 W und eine maximale Leistung von 1.100 W. Dadurch kann jedes Gerät, ob Lampen, Garten- oder Küchengeräte, mit Leichtigkeit betrieben werden. Der Benzin-Stromerzeuger verfügt über einen 4,2 Liter fassenden Benzintank, der für eine ausreichende Laufzeit sorgt.</p><p class=\"justify\">Die Inverter-Technologie des Einhell TC-IG 1100 gewährleistet einen Strom ohne Spannungsspitzen, sodass auch empfindliche Geräte problemlos angeschlossen werden können. Zusätzliche Sicherheit bieten ein Überlastschalter und eine Ölmangelsicherung, die den Stromerzeuger sowie die angeschlossenen Geräte schützen. Das Gerät ist mit einem stabilen Tragerahmen versehen, der für einen einfachen Transport sorgt. Der Einhell Benzin-Stromerzeuger TC-IG 1100 ist über einen Seilzug einfach zu starten, während stabile Standfüße für einen sicheren Betrieb sorgen.</p><p class=\"justify\">Mit einer Gesamtbewertung von 4 Sternen und 180 Kundenbewertungen ist der Einhell Benzin-Stromerzeuger TC-IG 1100 ein zuverlässiger und leistungsstarker Begleiter für zahlreiche Einsatzgebiete. Die Marke Einhell steht für Qualität und Langlebigkeit, sodass Sie sich bei der Wahl dieses Stromerzeugers auf ein zuverlässiges Produkt verlassen können.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "7179906",
-        "seo": {
-          "texts": [
-            {
-              "title": "Einhell Benzin-Stromerzeuger TC-PG 25/1/E5 - Hochwertiger Stromerzeuger für den vielseitigen Einsatz",
-              "text": "<p class=\"justify\">Der Einhell Benzin-Stromerzeuger TC-PG 25/1/E5 ist ein leistungsstarkes und zuverlässiges Gerät für vielfältige Anwendungen. Mit einer Dauerleistung von 2.100 W und einer maximalen Leistung von 2.400 W erzeugt der Stromerzeuger genügend Energie für unterschiedliche Arbeiten. Der 4-Takt-Antriebsmotor sorgt für einen kraftvollen, robusten und sauberen Betrieb, der zudem emissionsarm ist, dank der Einhaltung der Emission 5-Regularien.</p><p class=\"justify\">Zur Versorgung von Endgeräten stehen zwei 230 V-Steckdosen inklusive Voltmeter zur Verfügung. Das Voltmeter zeigt die Stromspannung an, während die AVR-Funktion (automatische Spannungsregelung) für eine stabile Ausgangsleistung sorgt. Der Stromerzeuger ist mit einem großen 15 l-Tank ausgerüstet, der über eine praktische Füllstandanzeige verfügt und einen Dauerbetrieb ermöglicht.</p><p class=\"justify\">Für einen sicheren und langlebigen Betrieb sorgen ein Überlastschalter und eine Ölmangelsicherung. Der Stromerzeuger lässt sich einfach über einen Seilzug starten. Die kompakte und praktische Bauweise des Einhell Benzin-Stromerzeugers TC-PG 25/1/E5 erleichtert den Transport und die Lagerung. Darüber hinaus sind die aufgeführten Bilder ausführlich gestaltet, um einen optimalen Eindruck des Produkts zu vermitteln.</p><p class=\"justify\">Mit einer durchschnittlichen Bewertung von 4 Sternen aus insgesamt 255 Rezensionen hat dieses Produkt eine hohe Kundenzufriedenheit erreicht. Der Einhell Benzin-Stromerzeuger TC-PG 25/1/E5 ist ein idealer Begleiter für Baustellen, Veranstaltungen, Campingausflüge oder als Notstromversorgung zu Hause.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "8662371",
-        "seo": {
-          "texts": [
-            {
-              "title": "Einhell Benzin-Stromerzeuger TC-IG 2000: Der ideale Begleiter für unabhängige Stromversorgung",
-              "text": "<p class=\"justify\">Der Einhell Benzin-Stromerzeuger TC-IG 2000 (SKU 8662371) ist der perfekte Partner für alle, die eine unabhängige Stromquelle benötigen. Ob für Schrebergärten, Baustellen, Camping, Werkstätten, Garagen oder für den Urlaub in abgelegenen Gebäuden sowie in Wald-, Fischer- und Berghütten – dieser Stromerzeuger ist für jede Situation geeignet.</p><p class=\"justify\">Angetrieben wird der TC-IG 2000 von einem leistungsstarken, robusten und emissionsarmen 4-Takt-Motor mit Inverter-Technologie. Diese Technologie sorgt dafür, dass auch empfindliche Geräte problemlos angeschlossen und betrieben werden können, ohne dass Spannungsspitzen auftreten. Der Stromerzeuger liefert bei Dauerbetrieb kontinuierlich 1.800 W Leistung, wobei die maximale Leistung bei 2.000 W liegt.</p><p class=\"justify\">Die kompakte Bauform des Einhell Benzin-Stromerzeugers TC-IG 2000 ermöglicht einen einfachen Transport dank des praktischen Tragegriffs. Zudem verfügt das Gerät über zwei 230 V-Steckdosen für den Anschluss verschiedenster Elektrogeräte. Zusätzlich sind zwei USB-Anschlüsse vorhanden, die das Laden von Smartphones, Tablets und weiteren USB-Geräten ermöglichen.</p><p class=\"justify\">Um einen leisen Betrieb zu gewährleisten, ist der Einhell Benzin-Stromerzeuger TC-IG 2000 in einer geschlossenen Bauform konzipiert. Für zusätzliche Sicherheit sorgen ein Überlastschalter und eine Ölmangelsicherung, welche das Gerät bei Bedarf automatisch abschalten. Der Start des Stromerzeugers erfolgt unkompliziert über einen Seilzug.</p><p class=\"justify\">In Sachen Qualität und Zuverlässigkeit überzeugt der Einhell Benzin-Stromerzeuger TC-IG 2000 mit einer durchschnittlichen Kundenbewertung von 4 Sternen bei 494 Rezensionen. Verlassen Sie sich auf die Erfahrung und Kompetenz der Marke Einhell und entscheiden Sie sich für den TC-IG 2000 als Ihren zuverlässigen Begleiter in der unabhängigen Stromerzeugung.</p>"
-            }
-          ]
-        }
-      }
-    ]
-  },
-  "categorySeo": {
-    "defaultTitle": "$KATEGORIE | grossgewerke.de",
-    "defaultMetaDescription": "Auf grossgewerke.de findest du die besten Produkte aus dem Bereich der $KATEGORIE. Lebe nun autark mit deiner persönlichen Stromversorgung. ",
-    "defaultRobots": "index, follow",
-    "categories": [
-      {
-        "key": "sporthosen",
-        "slug": "sporthosen",
-        "name": "Sporthosen",
-        "seo": {
-          "title": "Sporthosen günstig kaufen",
-          "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-          "robots": "index, follow",
-          "texts": [
-            {
-              "title": "Title of a SEO Text for sporthosen",
-              "text": "Text of a SEO Text for sporthosen"
+                "sku": "5637909794",
+                "name": "Ortovox PALA PANTS Kletterhose",
+                "seo": {
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "robots": "index, follow"
+                }
             },
             {
-              "title": "New title for sporthosen",
-              "text": "new text for sporthosen"
+                "sku": "8662363",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Einhell Benzin-Stromerzeuger TC-IG 1100: Unabhängige Stromversorgung für vielfältige Einsatzbereiche",
+                            "text": "<p class=\"justify\">Der Einhell Benzin-Stromerzeuger TC-IG 1100 ist ein leistungsstarkes und zuverlässiges Gerät, das sich ideal für alle Situationen eignet, in denen eine unabhängige Stromversorgung benötigt wird. Ob auf Baustellen, beim Campen, in Werkstätten, Garagen, freistehenden Gebäuden oder in Schrebergärten, der Einhell TC-IG 1100 liefert jederzeit die benötigte Energie.</p><p class=\"justify\">Der Stromerzeuger ist mit einem robusten und emissionsarmen 4-Takt-Antriebsmotor ausgestattet. Dieser erreicht eine Dauerleistung von 1.000 W und eine maximale Leistung von 1.100 W. Dadurch kann jedes Gerät, ob Lampen, Garten- oder Küchengeräte, mit Leichtigkeit betrieben werden. Der Benzin-Stromerzeuger verfügt über einen 4,2 Liter fassenden Benzintank, der für eine ausreichende Laufzeit sorgt.</p><p class=\"justify\">Die Inverter-Technologie des Einhell TC-IG 1100 gewährleistet einen Strom ohne Spannungsspitzen, sodass auch empfindliche Geräte problemlos angeschlossen werden können. Zusätzliche Sicherheit bieten ein Überlastschalter und eine Ölmangelsicherung, die den Stromerzeuger sowie die angeschlossenen Geräte schützen. Das Gerät ist mit einem stabilen Tragerahmen versehen, der für einen einfachen Transport sorgt. Der Einhell Benzin-Stromerzeuger TC-IG 1100 ist über einen Seilzug einfach zu starten, während stabile Standfüße für einen sicheren Betrieb sorgen.</p><p class=\"justify\">Mit einer Gesamtbewertung von 4 Sternen und 180 Kundenbewertungen ist der Einhell Benzin-Stromerzeuger TC-IG 1100 ein zuverlässiger und leistungsstarker Begleiter für zahlreiche Einsatzgebiete. Die Marke Einhell steht für Qualität und Langlebigkeit, sodass Sie sich bei der Wahl dieses Stromerzeugers auf ein zuverlässiges Produkt verlassen können.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "7179906",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Einhell Benzin-Stromerzeuger TC-PG 25/1/E5 - Hochwertiger Stromerzeuger für den vielseitigen Einsatz",
+                            "text": "<p class=\"justify\">Der Einhell Benzin-Stromerzeuger TC-PG 25/1/E5 ist ein leistungsstarkes und zuverlässiges Gerät für vielfältige Anwendungen. Mit einer Dauerleistung von 2.100 W und einer maximalen Leistung von 2.400 W erzeugt der Stromerzeuger genügend Energie für unterschiedliche Arbeiten. Der 4-Takt-Antriebsmotor sorgt für einen kraftvollen, robusten und sauberen Betrieb, der zudem emissionsarm ist, dank der Einhaltung der Emission 5-Regularien.</p><p class=\"justify\">Zur Versorgung von Endgeräten stehen zwei 230 V-Steckdosen inklusive Voltmeter zur Verfügung. Das Voltmeter zeigt die Stromspannung an, während die AVR-Funktion (automatische Spannungsregelung) für eine stabile Ausgangsleistung sorgt. Der Stromerzeuger ist mit einem großen 15 l-Tank ausgerüstet, der über eine praktische Füllstandanzeige verfügt und einen Dauerbetrieb ermöglicht.</p><p class=\"justify\">Für einen sicheren und langlebigen Betrieb sorgen ein Überlastschalter und eine Ölmangelsicherung. Der Stromerzeuger lässt sich einfach über einen Seilzug starten. Die kompakte und praktische Bauweise des Einhell Benzin-Stromerzeugers TC-PG 25/1/E5 erleichtert den Transport und die Lagerung. Darüber hinaus sind die aufgeführten Bilder ausführlich gestaltet, um einen optimalen Eindruck des Produkts zu vermitteln.</p><p class=\"justify\">Mit einer durchschnittlichen Bewertung von 4 Sternen aus insgesamt 255 Rezensionen hat dieses Produkt eine hohe Kundenzufriedenheit erreicht. Der Einhell Benzin-Stromerzeuger TC-PG 25/1/E5 ist ein idealer Begleiter für Baustellen, Veranstaltungen, Campingausflüge oder als Notstromversorgung zu Hause.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "8662371",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Einhell Benzin-Stromerzeuger TC-IG 2000: Der ideale Begleiter für unabhängige Stromversorgung",
+                            "text": "<p class=\"justify\">Der Einhell Benzin-Stromerzeuger TC-IG 2000 (SKU 8662371) ist der perfekte Partner für alle, die eine unabhängige Stromquelle benötigen. Ob für Schrebergärten, Baustellen, Camping, Werkstätten, Garagen oder für den Urlaub in abgelegenen Gebäuden sowie in Wald-, Fischer- und Berghütten – dieser Stromerzeuger ist für jede Situation geeignet.</p><p class=\"justify\">Angetrieben wird der TC-IG 2000 von einem leistungsstarken, robusten und emissionsarmen 4-Takt-Motor mit Inverter-Technologie. Diese Technologie sorgt dafür, dass auch empfindliche Geräte problemlos angeschlossen und betrieben werden können, ohne dass Spannungsspitzen auftreten. Der Stromerzeuger liefert bei Dauerbetrieb kontinuierlich 1.800 W Leistung, wobei die maximale Leistung bei 2.000 W liegt.</p><p class=\"justify\">Die kompakte Bauform des Einhell Benzin-Stromerzeugers TC-IG 2000 ermöglicht einen einfachen Transport dank des praktischen Tragegriffs. Zudem verfügt das Gerät über zwei 230 V-Steckdosen für den Anschluss verschiedenster Elektrogeräte. Zusätzlich sind zwei USB-Anschlüsse vorhanden, die das Laden von Smartphones, Tablets und weiteren USB-Geräten ermöglichen.</p><p class=\"justify\">Um einen leisen Betrieb zu gewährleisten, ist der Einhell Benzin-Stromerzeuger TC-IG 2000 in einer geschlossenen Bauform konzipiert. Für zusätzliche Sicherheit sorgen ein Überlastschalter und eine Ölmangelsicherung, welche das Gerät bei Bedarf automatisch abschalten. Der Start des Stromerzeugers erfolgt unkompliziert über einen Seilzug.</p><p class=\"justify\">In Sachen Qualität und Zuverlässigkeit überzeugt der Einhell Benzin-Stromerzeuger TC-IG 2000 mit einer durchschnittlichen Kundenbewertung von 4 Sternen bei 494 Rezensionen. Verlassen Sie sich auf die Erfahrung und Kompetenz der Marke Einhell und entscheiden Sie sich für den TC-IG 2000 als Ihren zuverlässigen Begleiter in der unabhängigen Stromerzeugung.</p>"
+                        }
+                    ]
+                }
             }
-          ]
+        ]
+    },
+    "categorySeo": {
+        "defaultTitle": "$KATEGORIE | grossgewerke.de",
+        "defaultMetaDescription": "Auf grossgewerke.de findest du die besten Produkte aus dem Bereich der $KATEGORIE. Lebe nun autark mit deiner persönlichen Stromversorgung. ",
+        "defaultRobots": "index, follow",
+        "categories": [
+            {
+                "key": "sporthosen",
+                "slug": "sporthosen",
+                "name": "Sporthosen",
+                "seo": {
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "robots": "index, follow",
+                    "texts": [
+                        {
+                            "title": "Title of a SEO Text for sporthosen",
+                            "text": "Text of a SEO Text for sporthosen"
+                        },
+                        {
+                            "title": "New title for sporthosen",
+                            "text": "new text for sporthosen"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "brandSeo": {
+        "defaultTitle": "$HERSTELLER | Generatoren & Stromerzeuger",
+        "defaultMetaDescription": "Mit den fortschrittlichen Produkten von $HERSTELLER, findest du jetzt Qualität zum fairen Preis. Bringe Licht ins Dunkel mit grossgewerke.de.",
+        "defaultRobots": "index, follow",
+        "brands": [
+            {
+                "key": "palm",
+                "name": "Palm",
+                "seo": {
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
+                    "robots": "index, follow"
+                }
+            }
+        ]
+    },
+    "navigationLinks": [
+        {
+            "title": "Start",
+            "linkTo": "/",
+            "linkTitle": "Großmaschinen",
+            "publish": true
+        },
+        {
+            "title": "Shop",
+            "linkTo": "/shop/",
+            "linkTitle": "Großmaschinen Shop",
+            "publish": true
+        },
+        {
+            "title": "Marken",
+            "linkTo": "/marken/",
+            "linkTitle": "Großmaschinen Marken",
+            "publish": true
+        },
+        {
+            "title": "Kontakt",
+            "linkTo": "/kontakt/",
+            "linkTitle": "Kontakt",
+            "publish": false
         }
-      }
-    ]
-  },
-  "brandSeo": {
-    "defaultTitle": "$HERSTELLER | Generatoren & Stromerzeuger",
-    "defaultMetaDescription": "Mit den fortschrittlichen Produkten von $HERSTELLER, findest du jetzt Qualität zum fairen Preis. Bringe Licht ins Dunkel mit grossgewerke.de.",
-    "defaultRobots": "index, follow",
-    "brands": [
-      {
-        "key": "palm",
-        "name": "Palm",
-        "seo": {
-          "title": "Produkte von Palm günstig kaufen",
-          "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-          "robots": "index, follow"
-        }
-      }
-    ]
-  },
-  "navigationLinks": [
-    {
-      "title": "Start",
-      "linkTo": "/",
-      "linkTitle": "Großmaschinen",
-      "publish": true
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
     },
-    {
-      "title": "Shop",
-      "linkTo": "/shop/",
-      "linkTitle": "Großmaschinen Shop",
-      "publish": true
+    "affiliate": {
+        "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
     },
-    {
-      "title": "Marken",
-      "linkTo": "/marken/",
-      "linkTitle": "Großmaschinen Marken",
-      "publish": true
-    },
-    {
-      "title": "Kontakt",
-      "linkTo": "/kontakt/",
-      "linkTitle": "Kontakt",
-      "publish": false
+    "snipcart": {
+        "apiKeys": {
+            "live": "MWFmYmZjYzEtNzZhNi00NzNjLWJhYTQtMTFmYWUzZDIyYTEzNjM4MTk1NzM0NTM3MDM2Nzgy",
+            "test": "OTQzZmQ1NzAtYTNlNy00NjMxLTkxMjUtZGRiZmQwMjljNjY3NjM4MTk1NzM0NTM3MDM2Nzgy"
+        },
+        "factor": 1.1
     }
-  ],
-  "ai": {
-    "enabled": true,
-    "engine": 1
-  },
-  "affiliate": {
-    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
-  }
 }
